@@ -1,0 +1,20 @@
+==========Welcome to Mini Mart=============
+ Bill Number:8108
+ Bill Number:8108
+ Customer Name:Muhammad Aamash Khan
+ Phone No:03343321889
+ Email:aamashkhan4@gmail.com
+========================================
+ Products		QTN		Price
+========================================
+Denim		3		7500
+Lifeboy		1		100
+Lifeboy		1		100
+Safeguard		2		310
+hairgel		4		1120
+
+=======================================
+ Sub Amount:			Rs.9130.00
+ Tax Amount:			Rs.88.50
+ Total Amount:			Rs.9218.50
+=======================================

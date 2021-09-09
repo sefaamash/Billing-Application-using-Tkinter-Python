@@ -1,0 +1,18 @@
+==========Welcome to Mini Mart=============
+ Bill Number:1238
+ Bill Number:1238
+ Customer Name:Aamash Khan
+ Phone No:03343321889
+ Email:aamashkhan4@gmail.com
+========================================
+ Products		QTN		Price
+========================================
+Denim		2		5000
+S12		1		90000
+Tibet		5		450
+
+=======================================
+ Sub Amount:			Rs.95450.00
+ Tax Amount:			Rs.953.60
+ Total Amount:			Rs.96403.60
+=======================================
