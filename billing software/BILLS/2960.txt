@@ -1,0 +1,20 @@
+==========Welcome to Mini Mart=============
+ Bill Number:2960
+ Bill Number:2960
+ Customer Name:Muhammad Aamash Khan`
+ Phone No:03343321889
+ Email:aamashkhan4@gmail.com
+========================================
+ Products		QTN		Price
+========================================Denim		2		5000
+Denizen		3		10500
+Tibet		1		90
+Ponds		1		110
+Lux		1		150
+Safeguard		5		775
+
+=======================================
+ Sub Amount:			Rs.16625.00
+ Tax Amount:			Rs.164.70
+ Total Amount:			Rs.16789.70
+=======================================

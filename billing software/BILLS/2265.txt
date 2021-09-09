@@ -1,0 +1,18 @@
+==========Welcome to Mini Mart=============
+ Bill Number:2265
+ Bill Number:2265
+ Customer Name:Aamash Khan
+ Phone No:03343321889
+ Email:dm668102@gmail.com
+========================================
+ Products		QTN		Price
+========================================
+Lux		3		450
+Denizen		2		7000
+MI11		4		480000
+
+=======================================
+ Sub Amount:			Rs.487450.00
+ Tax Amount:			Rs.3674.50
+ Total Amount:			Rs.491124.50
+=======================================

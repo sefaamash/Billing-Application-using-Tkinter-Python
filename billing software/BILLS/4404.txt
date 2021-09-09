@@ -1,0 +1,19 @@
+==========Welcome to Mini Mart=============
+ Bill Number:4404
+ Bill Number:4404
+ Customer Name:Aamash
+ Phone No:1234566778
+ Email:dm668102@gmail.com
+========================================
+ Products		QTN		Price
+========================================hairgel		6		1680
+Denim		9		22500
+Denim		9		22500
+Denim		9		22500
+Denim		9		22500
+
+=======================================
+ Sub Amount:			Rs.91680.00
+ Tax Amount:			Rs.891.80
+ Total Amount:			Rs.92571.80
+=======================================
